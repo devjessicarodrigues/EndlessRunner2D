@@ -1,10 +1,11 @@
 # 🐔 Chicken Runaway
 
+## Sobre o Jogo
 Chicken Runaway é um jogo 2D de plataforma endless-runner feito na Unity. Com um visual em pixel art e mecânicas produzidas com scripts em C#, você controla Cleo, uma galinha determinada, enquanto explora novos caminhos e supera desafios em sua fuga da fazenda.
 
 ---
 
-## 🌟 Sobre o Jogo
+## 🥚 História 
 
 Cleo passou a vida inteira cercada por limites. Agora, é hora de mudar. Fugir da fazenda é apenas o começo: no caminho, ela precisa enfrentar desafios, escapar de cães e ratos. Cada passo traz novas surpresas e a leva mais longe de onde tudo começou.
 
